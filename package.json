@@ -1,0 +1,25 @@
+{
+  "name": "blacknight",
+  "version": "1.0.0",
+  "description": "Our first 2D game",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OgAstorga/blacknight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OgAstorga/blacknight/issues"
+  },
+  "homepage": "https://github.com/OgAstorga/blacknight#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.0.4",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
